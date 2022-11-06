@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+  }
+  span {
+    color: black;
+  }
+  .gameOver {
+    color: green;
+  }
